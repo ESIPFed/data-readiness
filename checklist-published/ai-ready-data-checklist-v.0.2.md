@@ -51,25 +51,25 @@ How to cite this checklist:
 - Is there contact information for subject-matter experts? _Yes/No/Not applicable_
 - Is there a mechanism for user feedback and suggestions? _Yes/No/Not applicable_
 - Are there example codes / notebooks / toolkits available showing how the data can be used? _Yes/No/Not applicable_
-- Is there a clear data license? _Yes/No/Not applicable
+- Is there a clear data license? _Yes/No/Not applicable_
   - Is the license standardized and machine-readable (e.g. Creative Commons)? _Yes/No/Not applicable_
 - Has this dataset already been used in AI or ML activities? _Link to publications/reports._
 - Are there recommendations on the intended use of the data, and uses that are not recommended? _Yes/No/Not applicable_
 
 ## Data Access
 - What is the file format? Pick from list / “other” 
-  - Is it machine-readable? Yes / No / Not applicable 
-  - Is it available in at least one open, non-proprietary format? Yes / No / Not applicable
-  - Is it available in several different file formats? Yes / No / Not applicable
+  - Is it machine-readable? _Yes/No/Not applicable_ 
+  - Is it available in at least one open, non-proprietary format? _Yes/No/Not applicable_
+  - Is it available in several different file formats? _Yes/No/Not applicable_
 - Data delivery:
-  - Direct file download or ordering?  Yes / No/ Not applicable
-  - Is there an API?  Yes / No/ Not applicable
+  - Direct file download or ordering? _Yes/No/Not applicable_
+  - Is there an API? _Yes/No/Not applicable_
     - Custom-developed or open, standard protocol? Custom / Standard
-  - On the cloud?  Yes / No/ Not applicable
-- For restricted data, have measures been taken to provide some access while still applying appropriate protection for privacy and security?  Yes / No / Not Applicable
-  - Has the data been aggregated to reduce granularity?  Yes / No / Not applicable
-  - Has the data been anonymized / de-identified?  Yes / No / Not applicable
-  - Is there secure access to the full dataset for authorized users?  Yes / No / Not applicable
+  - On the cloud? _Yes/No/Not applicable_
+- For restricted data, have measures been taken to provide some access while still applying appropriate protection for privacy and security? _Yes/No/Not Applicable_
+  - Has the data been aggregated to reduce granularity? _Yes/No/Not applicable_
+  - Has the data been anonymized/de-identified? _Yes/No/Not applicable_
+  - Is there secure access to the full dataset for authorized users? _Yes/No/Not applicable_
 
 ---
 ## Appendix - Definition of terms used in the checklist
