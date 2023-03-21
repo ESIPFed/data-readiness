@@ -7,8 +7,13 @@ be updated periodically to reflect community feedback.
 
 **Version**: 0.2;  **Last updated**: April 1, 2022.
 
-## Data Preparation
+How to cite this checklist:
+> ESIP Data Readiness Cluster (2022): Checklist to Examine AI-readiness for Open Environmental Datasets. 
+> ESIP. Online resource. https://doi.org/10.6084/m9.figshare.19983722.v1
+
 ---
+
+## Data Preparation
 - Have null values/gaps been filled? _Yes/No/Not applicable_
 - Have outliers been identified? _Yes, tagged/Yes, removed/No/Not applicable_
 - Is the data single-source or aggregated from several sources? _Single/Aggregated_
@@ -16,7 +21,6 @@ be updated periodically to reflect community feedback.
 - Have targets been identified and labeled (i.e. can this be used as a training dataset for supervised learning techniques)? _Yes/No/Not applicable_
 
 ## Data Quality
----
 - Have measures been taken to ensure completeness? _Yes/No/Not applicable_
 - Are there automated processes to monitor consistency? _Yes/No/Not applicable_
 - Have measures been taken to reduce bias? _Yes/No/Not applicable_
@@ -34,7 +38,6 @@ be updated periodically to reflect community feedback.
 - Has it been down-sampled to reduce resolution, or is it raw? If so, are the raw data available?
 
 ## Data Documentation
----
 - Does the dataset have metadata? _Yes/No/Not applicable_
   - Is the dataset metadata standardized? _Yes/No/Not applicable_
   - Is the dataset metadata machine-readable? _Yes/No/Not applicable_
@@ -54,7 +57,6 @@ be updated periodically to reflect community feedback.
 - Are there recommendations on the intended use of the data, and uses that are not recommended? _Yes/No/Not applicable_
 
 ## Data Access
----
 - What is the file format? Pick from list / “other” 
   - Is it machine-readable? Yes / No / Not applicable 
   - Is it available in at least one open, non-proprietary format? Yes / No / Not applicable
