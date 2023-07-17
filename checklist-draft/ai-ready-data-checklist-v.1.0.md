@@ -1,21 +1,27 @@
-Note that some of these factors came from the draft readiness matrix developed by the Office of 
-Science and Technology Policy Subcommittee on Open Science, and some have been added based on 
-further research. Definitions for some concepts are listed at the end of this document. 
-This checklist is developed through a collaboration of ESIP Data Readiness Cluster members 
-including representatives from NOAA, NASA, USGS, and other organizations. The checklist will 
-be updated periodically to reflect community feedback.
+## About the checklist
 
-**Before the assessment**: Ideally for AI-ready assessment, a dataset should be defined as the minimum 
-measurable bundle (i.e., a physical parameter/variable of observational datasets or model simulations).
-The assessment at this scale will enable better integration of data from different sources for research
+The checklist is developed using the 2019 draft readiness matrix developed by the Office of 
+Science and Technology Policy Subcommittee on Open Science as a basis. The checklist has been 
+improved based on further research and user feedback. Definitions for some concepts are listed
+at the end of this document. This checklist is developed through a collaboration of ESIP Data 
+Readiness Cluster members include representatives from NOAA, NASA, USGS, and other organizations.
+The checklist will be updated periodically to reflect community feedback.
+
+### How to use the checklist  
+
+Ideally for AI-ready assessment, a dataset should be defined as the minimum measurable bundle 
+(i.e., a physical parameter/variable of observational datasets or model simulations). The 
+assessment at this scale will enable better integration of data from different sources for research
 and development. However, it can be an intensive process for manual assessment without automation. 
 Therefore, we recommend current assessments be done on the data file level. If the dataset has different 
 versions, the checklist should be applied to each dataset type (e.g. raw, derived).
 
-How to cite this checklist:
+### How to cite this checklist:
 > Information to be added after DOI is created by ESIP.
 
-**Version**: 1.0;  **Last updated**: June 21, 2023.
+### History
+**Version**: 1.0;  
+**Last updated**: June 21, 2023.
 
 ---
 
@@ -169,6 +175,6 @@ How to cite this checklist:
 - **License/Usage Rights**: information on who is allowed to use the data and for what purposes, including data sharing agreements, fees, etc.; some federal data needs to have restrictions and some will be fully open, so rights should be documented in detail
 - **Security/Privacy**: protection of data that is restricted in some way (privacy, proprietary/business information, national security, etc.)
 
-References:
+## References:
 1. OSTP Subcommittee on Open Science (2019), Draft AI-ready data matrix.
    (This draft document is not an official publication of the committee and can be requested for reference.)
