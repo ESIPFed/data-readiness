@@ -34,5 +34,5 @@ If you have any questions or suggestions related to the checklist and the assess
 ESIP Data Readiness Cluster (2023). Checklist to Examine AI-readiness for Open Environmental Datasets. Version 1.0. Earth Science Information Partners. https://github.com/ESIPFed/data-readiness [date accessed].
 
 ## Relevant references:  
-- Mills, A. (2022) [Are Your Data Ready? Take Stock with ESIP’s New AI-Ready Checklist](https://www.esipfed.org/merge/collaboration-updates/checklist-ai-ready-data) [Retrieved on 2023-10-13].
+- Mills, A. (2022) [Are Your Data Ready? Take Stock with ESIP’s New AI-Ready Checklist](https://www.esipfed.org/merge/collaboration-updates/checklist-ai-ready-data). Earth Science Information Partners [Retrieved on 2023-10-13].
 - Long, S. and Romanoff, T. (2023). [AI-Ready Open Data](https://bipartisanpolicy.org/explainer/ai-ready-open-data/ ). Bipartisan Policy Center. [Retrieved on 2023-10-13].
