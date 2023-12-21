@@ -17,7 +17,7 @@ Therefore, we recommend current assessments be done on the data file level. If t
 versions, the checklist should be applied to each dataset type (e.g. raw, derived).
 
 ### How to cite this checklist:
-> Information to be added after DOI is created by ESIP.
+> ESIP Data Readiness Cluster (2023): Checklist to Examine AI-readiness for Open Environmental Datasets v.1.0. ESIP. Online resource. https://doi.org/10.6084/m9.figshare.19983722.v1
 
 ### History
 **Version**: 1.0;  
