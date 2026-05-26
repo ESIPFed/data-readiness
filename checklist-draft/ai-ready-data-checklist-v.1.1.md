@@ -21,7 +21,7 @@ versions, the checklist should be applied to each dataset type (e.g. raw, derive
 
 ### History
 **Version**: 1.1;  
-**Last updated**: May 21, 2026.
+**Last updated**: May 26, 2026.
 
 ---
 
@@ -37,18 +37,15 @@ versions, the checklist should be applied to each dataset type (e.g. raw, derive
 
 ## Data Quality
 - Questions on timeliness:
-  - Is there standardized metadata information about the update frequency of the dataset (e.g., ISO standard "maintenanceAndUpdateFrequency")? _Yes/No_
+  - Is there standardized metadata information about the update frequency of the dataset (e.g., ISO standard "maintenanceAndUpdateFrequency")? _Yes / No_
   - Is the dataset continuously updated?
   - Is data added? If so, how often?
   - Is select data revised? If so, is there a way for users to understand what changed and when?
-- Questions on data completeness
-  - Is there any documentation about the completeness of the dataset? _Yes / No_
-    - If yes, link to the report/document
-  - How complete is the dataset compared to the expected spatial coverage?
-    _Complete / Partial / Unknown / Not applicable_
-  - How complete is the dataset compared to the expected temporal coverage?
-    _Complete / Partial / Unknown / Not applicable_
-- Questions on data consistency
+- Questions on data coverage:
+  - Is there standardized metadata information about the spatial coverage of the dataset? _Yes / No / Not applicable_
+  - Is there standardized metadata information about the temporal coverage of the dataset? _Yes / No / Not applicable_
+  - Is there quantitative information about data resolution in space and time? _Yes / No / Not applicable_
+- Questions on data consistency:
   - Is this dataset self-consistent in that its units, data types, and parameter names
     do not change over time and space? _Yes / No / Not applicable_
   - Is this dataset’s units, data types, and parameter names consistent with similar data
@@ -56,8 +53,9 @@ versions, the checklist should be applied to each dataset type (e.g. raw, derive
   - Are there processes to monitor for units, data types, and parameter consistency?
     _Yes / No / Not applicable_
     - If yes, what measures are taken? _Manual review / Automated review_
-- Question on data representativeness
-  - 
+- Question on data representativeness:
+  - Is there any documentation about known issues of the representativeness of the dataset? _Yes / No / No information available_
+    - (optional) Link to the report/document on the bias 
 - Questions on data bias
   - Is there known bias in the dataset? _Yes / No_
     - If yes, provide more information
@@ -68,7 +66,6 @@ versions, the checklist should be applied to each dataset type (e.g. raw, derive
     - (optional) Link to the report/document on the bias
     - (optional) Link to tools available to reduce bias
     - (optional) Link to a bias-corrected or bias-reduced version of the dataset 
-  - Is there quantitative information about data resolution in space and time? _Yes / No / Not applicable_
   - Are there published data quality procedures or reports? _Yes / No_ 
     - If there is published quality information, please provide the link to the information.
   - Is the provenance of the dataset tracked and documented? _Yes / No / Not applicable_
