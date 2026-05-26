@@ -25,13 +25,16 @@ If you are in the early stages of developing AI/ML applications with open enviro
 your applications. Although you may not have the ability to change other people’s datasets, this will help you document the effort spent on preparing 
 the dataset for your development. 
 
+## Contributors
+
+
+## How to cite the checklist:  
+ESIP Data Readiness Cluster (2023). Checklist to Examine AI-readiness for Open Environmental Datasets. Version 1.0. Earth Science Information Partners. https://github.com/ESIPFed/data-readiness [date accessed].
+
 ## How to provide your feedback:  
 If you have any questions or suggestions related to the checklist and the assessment tool, you can provide feedback following the two options listed below:
 - Contact Douglas Rao (douglas.rao@noaa.gov), cluster chair
 - Open an issue in this GitHub repo.
-
-## How to cite the checklist:  
-ESIP Data Readiness Cluster (2023). Checklist to Examine AI-readiness for Open Environmental Datasets. Version 1.0. Earth Science Information Partners. https://github.com/ESIPFed/data-readiness [date accessed].
 
 ## Relevant references:  
 - Mills, A. (2022) [Are Your Data Ready? Take Stock with ESIP’s New AI-Ready Checklist](https://www.esipfed.org/merge/collaboration-updates/checklist-ai-ready-data). Earth Science Information Partners [Retrieved on 2023-10-13].
