@@ -20,8 +20,9 @@ versions, the checklist should be applied to each dataset type (e.g. raw, derive
 > Citation information to be added after publication
 
 ### History
-**Version**: 1.1;  
-**Last updated**: May 26, 2026.
+**Version**: 1.1; 
+**Last updated**: October 6, 2026 (typo corrections).
+**Published**: September 30, 2026.
 
 ---
 
